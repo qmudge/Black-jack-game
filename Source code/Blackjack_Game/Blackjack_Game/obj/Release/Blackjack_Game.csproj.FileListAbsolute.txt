@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Software projects\C#(basic) Project 1 blackJack\Source code\Blackjack_Game\Blackjack_Game\bin\Release\Blackjack_Game.exe.config
+C:\Users\User\Desktop\Software projects\C#(basic) Project 1 blackJack\Source code\Blackjack_Game\Blackjack_Game\bin\Release\Blackjack_Game.exe
+C:\Users\User\Desktop\Software projects\C#(basic) Project 1 blackJack\Source code\Blackjack_Game\Blackjack_Game\bin\Release\Blackjack_Game.pdb
+C:\Users\User\Desktop\Software projects\C#(basic) Project 1 blackJack\Source code\Blackjack_Game\Blackjack_Game\obj\Release\Blackjack_Game.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Software projects\C#(basic) Project 1 blackJack\Source code\Blackjack_Game\Blackjack_Game\obj\Release\Blackjack_Game.startScreen.resources
+C:\Users\User\Desktop\Software projects\C#(basic) Project 1 blackJack\Source code\Blackjack_Game\Blackjack_Game\obj\Release\Blackjack_Game.NewGame.resources
+C:\Users\User\Desktop\Software projects\C#(basic) Project 1 blackJack\Source code\Blackjack_Game\Blackjack_Game\obj\Release\Blackjack_Game.Properties.Resources.resources
+C:\Users\User\Desktop\Software projects\C#(basic) Project 1 blackJack\Source code\Blackjack_Game\Blackjack_Game\obj\Release\Blackjack_Game.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Software projects\C#(basic) Project 1 blackJack\Source code\Blackjack_Game\Blackjack_Game\obj\Release\Blackjack_Game.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Software projects\C#(basic) Project 1 blackJack\Source code\Blackjack_Game\Blackjack_Game\obj\Release\Blackjack_Game.exe
+C:\Users\User\Desktop\Software projects\C#(basic) Project 1 blackJack\Source code\Blackjack_Game\Blackjack_Game\obj\Release\Blackjack_Game.pdb
