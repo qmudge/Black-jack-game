@@ -13,3 +13,5 @@ Desktop application developed in Visual Studio
 ![screenshot 88](https://user-images.githubusercontent.com/34503137/34212535-40336e2c-e5a5-11e7-999b-9dee8d63689d.png)
 ## User can hit as many times as they like if their total remains under 21.
 ![screenshot 89](https://user-images.githubusercontent.com/34503137/34212706-d2b40842-e5a5-11e7-909d-33fb0948cc3d.png)
+## User opts to stay, Dealer receives an additional card but busts since their score total is now over 21. Game exits when window is closed or user selects the "Quit game" button.
+![screenshot 90](https://user-images.githubusercontent.com/34503137/34213001-ae87a6d0-e5a6-11e7-9064-730a9d8492f4.png)
