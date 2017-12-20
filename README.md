@@ -11,3 +11,5 @@ Desktop application developed in Visual Studio
 ![screenshot 87](https://user-images.githubusercontent.com/34503137/34212208-4c8c16f2-e5a4-11e7-8fef-2bd6f04520b4.png)
 ## Next game commences when user selects to deal.
 ![screenshot 88](https://user-images.githubusercontent.com/34503137/34212535-40336e2c-e5a5-11e7-999b-9dee8d63689d.png)
+## User can hit as many times as they like if their total remains under 21.
+![screenshot 89](https://user-images.githubusercontent.com/34503137/34212706-d2b40842-e5a5-11e7-909d-33fb0948cc3d.png)
