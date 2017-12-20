@@ -7,3 +7,5 @@ Desktop application developed in Visual Studio
 ![screenshot 85](https://user-images.githubusercontent.com/34503137/34211730-ad7d2fc0-e5a2-11e7-931b-4d2d1bba9421.png)
 ## Initial hand dealt to player and dealer. User selects what action to take hit/stay.
 ![screenshot 86](https://user-images.githubusercontent.com/34503137/34211906-42b829f0-e5a3-11e7-8545-5d27fbb02ccd.png)
+## User opted to stay, Dealer hits if their score equals or is less than 18. Losses tally increments by one in the scoreboard window.
+![screenshot 87](https://user-images.githubusercontent.com/34503137/34212208-4c8c16f2-e5a4-11e7-8fef-2bd6f04520b4.png)
